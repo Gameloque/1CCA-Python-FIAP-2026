@@ -1,0 +1,1 @@
+valor1 = print(input("Escreve um número ai: "))
