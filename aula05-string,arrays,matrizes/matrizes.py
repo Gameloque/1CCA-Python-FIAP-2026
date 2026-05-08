@@ -7,3 +7,4 @@ msc = [
 for i in range (len(msc)):
         print(f'Musica: {msc[i]}')
         print()
+        print()
