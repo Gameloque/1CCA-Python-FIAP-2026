@@ -1,0 +1,6 @@
+print("aaa")
+
+RESPOSTA = float(input("Gostaria de continuar (Digite 6 ou 7): "))
+while RESPOSTA == 7:
+    print("aaa")
+    RESPOSTA = float(input("Gostaria de continuar (Digite 6 ou 7): "))
