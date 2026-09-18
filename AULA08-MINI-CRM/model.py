@@ -1,7 +1,7 @@
 from datetime import date
 
 def model_lead(name, email, stage):
-    return{
+    return {
         "name": name,
         "email": email,
         "stage": stage,

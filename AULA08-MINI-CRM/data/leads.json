@@ -4,5 +4,17 @@
     "email": "atum@gamil.com",
     "stage": "Aguardando",
     "crated": "2026-09-11"
+  },
+  {
+    "name": "asdasd",
+    "email": "as@bmail.com",
+    "stage": "Ativo",
+    "created": "2026-09-18"
+  },
+  {
+    "name": "Maria Clara",
+    "email": "mc@gmail.com",
+    "stage": "Ativo",
+    "created": "2026-09-18"
   }
 ]
