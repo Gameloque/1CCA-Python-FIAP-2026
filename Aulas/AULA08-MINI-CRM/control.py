@@ -48,4 +48,4 @@ def export_leads():
             writer.writeheader()
             for row_dict in leads:
                 writer.writerow(row_dict)
-            return
+            return e
